@@ -658,3 +658,7 @@
 	path = zsearch-trees
 	url = scm.gforge.inria.fr:/git/coq-contribs/zsearch-trees.git
 	branch = trunk
+[submodule "propcalc"]
+	path = propcalc
+	url = scm.gforge.inria.fr:/git/coq-contribs/propcalc.git
+	branch = trunk
