@@ -642,3 +642,7 @@
 	path = propcalc
 	url = scm.gforge.inria.fr:/git/coq-contribs/propcalc.git
 	branch = v8.4
+[submodule "traversable-fincontainer"]
+	path = traversable-fincontainer
+	url = scm.gforge.inria.fr:/git/coq-contribs/traversable-fincontainer.git
+	branch = v8.4
